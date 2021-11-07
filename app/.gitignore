@@ -1,0 +1,10 @@
+build/
+node_modules/
+/bootloader
+/modules
+/tools
+/zephyr
+build
+*.DS_Store
+__pycache__
+.west/
